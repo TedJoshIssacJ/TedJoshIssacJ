@@ -39,5 +39,5 @@ Nothing yet... But I'm working on it!
 - 👨‍💻 Always willing to contribute to FOSS! 
 - 🔗 Reach out via [LinkedIn](https://linkedin.com/in/TedJoshIssacJ) or drop an email at `tedjoshissacj@gmail.com`. 
 
-#### Code with ❤️ 
+### ❤️ To Code 
 
