@@ -35,19 +35,6 @@
 ### 🏆 Certifications 
 Nothing yet... But I'm working on it! 
 
---### 📊 GitHub Activity & Metrics 
-<p align="center"> 
-  
-  <img src="https://github-readmestats.vercel.app/api?username=TedJoshIssacJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /> 
-  
-  <img src="https://github-readme-streakstats.herokuapp.com/?user=TedJoshIssacJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> 
-  
-  </p> <p align="center"> 
-    
-<img src="https://github-readme-stats.vercel.app/api/toplangs/?username=TedJoshIssacJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" /> 
-
-</p> 
-
 ### 🌐 Connect With Me 
 - 👨‍💻 Always willing to contribute to FOSS! 
 - 🔗 Reach out via [LinkedIn](https://linkedin.com/in/TedJoshIssacJ) or drop an email at `arun.sundaram@example.com`. 
