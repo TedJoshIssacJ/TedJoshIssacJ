@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ted Josh Issac👋
 
-<!--
-**TedJoshIssacJ/TedJoshIssacJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student at SJCE | Average Leetcode Enjoyer | Competitive Programmer 
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=flatsquare&logo=gmail&logoColor=white)](mailto:tedjoshissacj@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flatsquare&logo=linkedin&logoColor=white)](https://linkedin.com/in/tedjoshissacj) 
+
+### 🖥️ About Me 
+- 🔭 Currently learning statistical computing
+- 🧮 Interested in computational mathematics and numerical analysis 
+- 💬 Ask me about **Physics, Computational Simulations, Emulators, Gamedevs and Anime**
+- Fun fact: When I'm not on leetcode, I'm writing lua for hyprland
+
