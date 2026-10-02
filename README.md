@@ -10,5 +10,47 @@
 - 🔭 Currently learning statistical computing
 - 🧮 Interested in computational mathematics and numerical analysis 
 - 💬 Ask me about **Physics, Computational Simulations, Emulators, Gamedevs and Anime**
-- Fun fact: When I'm not on leetcode, I'm writing lua for hyprland
+- 💡 Fun fact: When I'm not on leetcode, I'm writing lua for hyprland
+
+### Tech Stack & Tooling 
+| Domain | Technologies & Tools | 
+|:-------|:---------------------| 
+| Languages | C, C++, Bash, Lua, POSIX Shell | 
+| Computer Graphics | OpenGL, Raylib | 
+| Game Development | Unity, Unreal 4, Godot, pygame, raylib, OpenGL | 
+| CI/CD Pipelines | Github VCS | 
+
+### 📌 Featured Repositories  
+#### 🎮  [Mathematician Conway's Game of Life](https://github.com/therealteddy/Game-of-life) 
+- Implementation of the John Conway's famous Game Of Life
+- Built with raylib, c and nuklear
+- Partially Vibe-coded
+#### 📚 [A Simple Web Scaper](https://github.com/therealteddy/QuoteScraper) 
+- Web scraper implementation for scraping quotes off the internet
+- Written in c, libxml and curl
+#### 👾 [Porting Arch to efi32/ia32](https://github.com/therealteddy/Archefi86) 
+- Files needed to get Arch Linux working on 32bit EFI systems, which didn't  have obvious documentation in 2021
+- Grub .cfg files and .efi binaries.
+
+### 🏆 Certifications 
+Nothing yet... But I'm working on it! 
+
+--### 📊 GitHub Activity & Metrics 
+<p align="center"> 
+  
+  <img src="https://github-readmestats.vercel.app/api?username=TedJoshIssacJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /> 
+  
+  <img src="https://github-readme-streakstats.herokuapp.com/?user=TedJoshIssacJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> 
+  
+  </p> <p align="center"> 
+    
+<img src="https://github-readme-stats.vercel.app/api/toplangs/?username=TedJoshIssacJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" /> 
+
+</p> 
+
+### 🌐 Connect With Me 
+- 👨‍💻 Always willing to contribute to FOSS! 
+- 🔗 Reach out via [LinkedIn](https://linkedin.com/in/TedJoshIssacJ) or drop an email at `arun.sundaram@example.com`. 
+
+#### Code with ❤️ 
 
