@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flatsquare&logo=linkedin&logoColor=white)](https://linkedin.com/in/tedjoshissacj) 
 
 ### 🖥️ About Me 
-- 🔭 Currently learning statistical computing
-- 🧮 Interested in computational mathematics and numerical analysis 
+- 🔭 Currently learning theoretical computer science. 
+- 🧮 Interested in computational mathematics, numerical analysis, logic and philosophy 
 - 💬 Ask me about **Physics, Computational Simulations, Emulators, Gamedevs and Anime**
 - 💡 Fun fact: When I'm not on leetcode, I'm writing lua for hyprland
 
